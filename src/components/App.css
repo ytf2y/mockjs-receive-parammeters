@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    line-height: 50px;
+    text-align: center;
+    margin: 20px;
+    background-color: deepskyblue;
+    color: white;
+}
